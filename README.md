@@ -23,7 +23,7 @@ git clone https://github.com/CeWeR/nagaeedam.git
 cd nagaeedam
 ```
 *Edit nagaeedam.py file and add your Bot Token to line 12 then:*
- 5در لاین nagaeedam.py نکته توکن را اضافه کنید در 
+ 12در لاین nagaeedam.py نکته توکن را اضافه کنید در 
 
 ```
 python2 nagaeedam.py

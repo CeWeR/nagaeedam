@@ -9,7 +9,7 @@ import urllib2
 import sys
 reload(sys)
 sys.setdefaultencoding("utf-8")
-bot = telebot.TeleBot("239002770:AAHDVy7MjZPkHPS4CN0TnnDCMqaVb9Gw2Kk")
+bot = telebot.TeleBot("TOKEN")
 R = redis.StrictRedis(host='localhost', port=6379, db=0)
 
 if not R.get("nagaeedam:inline:used") :
